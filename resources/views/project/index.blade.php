@@ -9,9 +9,9 @@
                 <table class="table table-condensed">
                     <thead>
                         <tr>
-                            <th>Title</th>
-                            <th>Description</th>
-                            <th>Author</th>
+                            <th>Laravel 101</th>
+                            <th>Start Laravel Tutorial</th>
+                            <th>JDT</th>
                             <th></th>
                         </tr>
                     </thead>
