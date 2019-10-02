@@ -17,7 +17,7 @@
                         <textarea class="form-control" name="description"></textarea>
                     </div>
                     <div class="form-group">
-                        <label>Author</label>
+                        <label>Authors</label>
                         <input class="form-control" name="author" type="text">
                     </div>
                     <div class="form-group">
